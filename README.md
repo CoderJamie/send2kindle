@@ -17,7 +17,7 @@ Edit the _send2kindle_ file to setup your SMTP server and other default settings
 * __from_addr:__ The address files will be sent from (must be on the "approved" list for the Kindle device, configured through the Amazon account)
 
 # Usage
-__send2kindle__ _{filename}_
+__send2kindle__ _{options}_ _{filename}_
 
 # Command line options
 
